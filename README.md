@@ -28,3 +28,16 @@
 ### Ordenamos y añadimos diseño a los cuatro campos que tenemos
 ![13](https://user-images.githubusercontent.com/71306261/96203722-2ba0d080-0f28-11eb-8db1-bda5ca448a35.jpg)
 ![14](https://user-images.githubusercontent.com/71306261/96203730-2e9bc100-0f28-11eb-805c-e5e0fc86e704.jpg)
+
+### Ordenamos las letras de abajo y le cambiamos de color
+![15](https://user-images.githubusercontent.com/71306261/96203934-b255ad80-0f28-11eb-99ac-14356d672596.jpg)
+![16](https://user-images.githubusercontent.com/71306261/96203939-b41f7100-0f28-11eb-8cc9-cdd6b158afc8.jpg)
+
+### Añadimos un efecto de leccion al pasar el cursor por el el texto
+![17](https://user-images.githubusercontent.com/71306261/96204124-1d06e900-0f29-11eb-9fd9-83b4583c2aaa.jpg)
+
+### Por ultimo diseñamos el boton
+![18](https://user-images.githubusercontent.com/71306261/96204131-2001d980-0f29-11eb-8bc2-85670423c485.jpg)
+![19](https://user-images.githubusercontent.com/71306261/96204133-21330680-0f29-11eb-95e8-ddf45c23a9c0.jpg)
+
+
